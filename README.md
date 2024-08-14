@@ -3,8 +3,6 @@ Neste projeto, analisamos se existe uma relação entre a área dos imóveis (em
 
 ---
 
-Feito por: **Jeferson Paz**  
-
-Meu GitHub: [Jeferson Paz](https://github.com/jeferson-paz)  
+Feito por: **Jeferson Paz** 
 
 Projeto criado através do Curso gratuito na Data Science Academy: [Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://www.datascienceacademy.com.br)
