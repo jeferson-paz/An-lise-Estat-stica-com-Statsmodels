@@ -4,7 +4,6 @@ Neste projeto, analisamos se existe uma relação entre a área dos imóveis (em
 ---
 
 Feito por: **Jeferson Paz**  
-Cursos na Data Science Academy: Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)  
 
 Meu GitHub: [Jeferson Paz](https://github.com/jeferson-paz)  
 
